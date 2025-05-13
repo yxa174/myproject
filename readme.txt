@@ -4,6 +4,8 @@
 4. python manage.py test myapp.tests.test_signals # запуск тестов
 5. python manage.py runserver # запуск сервера django
 6. python bot.py # запуск бота телеграм
-7 в myapp/option.py добавляем свой токен созданного телеграм бота(@botfather)
+7 В myapp/option.py добавляем свой токен телеграм бота(@botfather)
 
 для старта боту нужно написать команду /start 
+
+проверено на python 3.11
